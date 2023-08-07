@@ -7,4 +7,5 @@ The program allows the user to
 - rent
 - delete
 - sort books by year or name
+
 It was done as a mini project under the course.
